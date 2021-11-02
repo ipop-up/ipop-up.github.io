@@ -7,10 +7,10 @@ Note : This website is still under construction. Thank you for your patience
 
 ## Events
 iPOP-UP organises several types of events
-- *iPOP-UP bioinformatic meetings* : Online meetings held on zoom where someone presents a method or bioinformatic tools to others in a relaxed way. We value immensly community chimming in in these meetings. If you are interested in giving one, please contact Alix Silvert (TODO : add mail-to link)
-- *Bioinformatic workshops (incomming)* : In which a member of iPOP-UP gives a small introductory workshop to a limited number of people.
+- *iPOP-UP bioinformatic meetings* : Online meetings held on zoom where someone presents a method or bioinformatic tools to others in a relaxed way. We value immensly community chimming in in these meetings. If you are interested in giving one, please contact [Alix Silvert](mailto:alix.silvert@u-paris.fr)
+- *Bioinformatic workshops (incomming)* : In which a member of iPOP-UP gives a small introductory workshop to a limited number of people. We are still working on those, they will be announced as soon as they are ready.
 
-Summary and documents related to past events can be found here (TODO create the past events subcategory)
+You can find for information on iPOP-UP events, including incomming events, summary of past events and more [here](./Pages/events.md)
 
 ## Computing cluster
 iPOP-UP has a computing cluster dedicated to bioinformatic analyses, hosted by the RPBS team. It is currently in closed beta, but will soon be open to reasearchers.
@@ -26,4 +26,4 @@ iPOP-UP also provides direct bioinformatic help on specific project, by having a
 Our latest call for project is currently closed, however you can find the text [here](./Media/call_for_projects_2021.pdf)
 
 ## Contact
-If you have any questions or remark, please contact [Alix Silvert](mailto:alix.silvert@u-paris.fr)
+If you whish to be kept in the loop on all things iPOP-UP or if you have any questions or remark, please contact [Alix Silvert](mailto:alix.silvert@u-paris.fr)
