@@ -6,14 +6,18 @@ iPOP-UP organises several types of events
 
 ## Upcomming events
 
-To be announced
+##### Bioinformatic Meeting - Dec 16th 2021 - Julien Richard Albert
+Julien will present his work on allele specific analysis.
+
+##### Bioinformatic Meeting - Jan 13th 2022 -François Petit
+François will hold a presentation on clustering and dimensionnality reduction, meant as a beginner tutorial.
 
 ## Past events
 
 #### Bioinformatic Meeting - May 27th 2021 - Multiple speakers
 A presentation of various poles working in bioinformatic within Université de Paris.
 - Pharma, Maria Miteva
-- BIBS, Magalie Hénnion
+- BIBS, Magali Hénnion
 - GENOM'IC, Franck Letourneur
 - IMAGINE, Fabienne Hanin
 - BFA, Pierre Tufféry
@@ -22,7 +26,7 @@ A presentation of various poles working in bioinformatic within Université de P
 
 
 #### Bioinformatic Meeting - June 1Oth 2021 - Benjamin Saintpierre
-Benjamin Saintpierre presented a paper about batch effect correction in the case of scRNA-Seq, and complemented it with his own experience and the current methids used in GENOM'IC platform
+Benjamin Saintpierre presented a paper about batch effect correction in the case of scRNA-Seq, and complemented it with his own experience and the current methids used in GENOM'IC platform. His slides can be found [here](/Media/BioinformaticMeetings/bioinformatic-meetings-10-06-2021.pdf)
 
 
 #### Bioinformatic Meeting - June 24th 2021 - Pierre Poulain
